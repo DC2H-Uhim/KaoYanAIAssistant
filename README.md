@@ -78,3 +78,5 @@ KaoYanAIAssistant/
 │ ├── deploy.sh # 部署脚本
 │ └── ... # 其他脚本
 ├── .gitignore # 项目级别的 Git 忽略文件
+
+测试 Git 是否被防火墙拦截
